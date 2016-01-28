@@ -7,9 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "TestNewView.h"
 @interface ViewController : UIViewController
-
+@property (nonatomic,strong)TestNewView * test;
 
 @end
 

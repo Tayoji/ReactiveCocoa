@@ -1,4 +1,5 @@
 PODS:
+  - PgyUpdate (1.2)
   - ReactiveCocoa (4.0.4-alpha-1):
     - ReactiveCocoa/UI (= 4.0.4-alpha-1)
     - Result (~> 0.6-beta.1)
@@ -13,9 +14,11 @@ PODS:
   - Result (0.6.0-beta.6)
 
 DEPENDENCIES:
+  - PgyUpdate
   - ReactiveCocoa (~> 4.0.4-alpha-1)
 
 SPEC CHECKSUMS:
+  PgyUpdate: a42e82cec5ad4e992af390e9d494f6fc62db65e4
   ReactiveCocoa: 618a2fc13d4ed80e380aa6fa56547cef43c7341d
   Result: dc390d0b58f9ec43fcd536f1ebdd130803cc6cbc
 

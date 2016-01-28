@@ -1,6 +1,11 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
+## PgyUpdate
+
+Copyright 2015 pgyer.com. All rights reserved.
+
+
 ## ReactiveCocoa
 
 **Copyright (c) 2012 - 2015, GitHub, Inc.**
